@@ -1,0 +1,6 @@
+dataset/
+trainer/
+users.txt
+
+__pycache__/
+*.pyc
