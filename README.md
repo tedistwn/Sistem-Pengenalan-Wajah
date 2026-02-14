@@ -1,1 +1,0 @@
-# Sistem-Pengenalan-Wajah
